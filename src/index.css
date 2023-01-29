@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.DatePickerHome > div > input {
+  @apply dark:border-gray-300  dark:bg-white bg-green-800;
+}
+
+@font-face {
+  font-family: "Poppins-Black";
+  src: url("./Fonts/Poppins/Poppins-Black.ttf");
+}
+
+@font-face {
+  font-family: "Poppins-BlackItalic";
+  src: url("../src/Fonts/Poppins/Poppins-BlackItalic.ttf");
+}
+@font-face {
+  font-family: "Poppins-Bold";
+  src: url("../src/Fonts/Poppins/Poppins-Bold.ttf");
+}
+@font-face {
+  font-family: "Poppins-BoldItalic";
+  src: url("../src/Fonts/Poppins/Poppins-BoldItalic.ttf");
+}
+@font-face {
+  font-family: "Poppins-ExtraBold";
+  src: url("../src/Fonts/Poppins/Poppins-ExtraBold.ttf");
+}
+@font-face {
+  font-family: "Poppins-ExtraBoldItalic";
+  src: url("../src/Fonts/Poppins/Poppins-ExtraBoldItalic.ttf");
+}
+@font-face {
+  font-family: "Poppins-Light";
+  src: url("../src/Fonts/Poppins/Poppins-Light.ttf");
+}
+@font-face {
+  font-family: "Poppins-ExtraLightItalic";
+  src: url("../src/Fonts/Poppins/Poppins-ExtraLightItalic.ttf");
+}
+@font-face {
+  font-family: "Poppins-ExtraLight";
+  src: url("../src/Fonts/Poppins/Poppins-ExtraLight.ttf");
+}
+@font-face {
+  font-family: "Poppins-LightItalic";
+  src: url("../src/Fonts/Poppins/Poppins-ExtraLightItalic.ttf");
+}
+@font-face {
+  font-family: "Poppins-Medium";
+  src: url("../src/Fonts/Poppins/Poppins-Medium.ttf");
+}
+@font-face {
+  font-family: "Poppins-MediumItalic";
+  src: url("../src/Fonts/Poppins/Poppins-MediumItalic.ttf");
+}
+@font-face {
+  font-family: "Poppins-Regular";
+  src: url("../src/Fonts/Poppins/Poppins-Regular.ttf");
+}
+@font-face {
+  font-family: "Poppins-SemiBold";
+  src: url("../src/Fonts/Poppins/Poppins-SemiBold.ttf");
+}
+@font-face {
+  font-family: "Poppins-SemiBoldItalic";
+  src: url("../src/Fonts/Poppins/Poppins-SemiBoldItalic.ttf");
+}
+@font-face {
+  font-family: "Poppins-Thin";
+  src: url("../src/Fonts/Poppins/Poppins-Thin.ttf");
+}
+@font-face {
+  font-family: "Poppins-ThinItalic";
+  src: url("../src/Fonts/Poppins/Poppins-ThinItalic.ttf");
+}
